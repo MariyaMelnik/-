@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\юлдашева\Text Redactor\bin\Debug\Text Redactor.exe.config
+C:\Users\student\Desktop\юлдашева\Text Redactor\bin\Debug\Text Redactor.exe
+C:\Users\student\Desktop\юлдашева\Text Redactor\bin\Debug\Text Redactor.pdb
+C:\Users\student\Desktop\юлдашева\Text Redactor\obj\Debug\Text Redactor.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\юлдашева\Text Redactor\obj\Debug\Text Redactor.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\юлдашева\Text Redactor\obj\Debug\Text_Redactor.Form1.resources
+C:\Users\student\Desktop\юлдашева\Text Redactor\obj\Debug\Text_Redactor.Properties.Resources.resources
+C:\Users\student\Desktop\юлдашева\Text Redactor\obj\Debug\Text Redactor.csproj.GenerateResource.cache
+C:\Users\student\Desktop\юлдашева\Text Redactor\obj\Debug\Text Redactor.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\юлдашева\Text Redactor\obj\Debug\Text Redactor.exe
+C:\Users\student\Desktop\юлдашева\Text Redactor\obj\Debug\Text Redactor.pdb
